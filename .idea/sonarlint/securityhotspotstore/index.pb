@@ -25,3 +25,5 @@ H
 src/exception.py,5/3/53c4f339893b353221454594bcdd6c025ff117bc
 <
 src/utils.py,9/5/958572e37fbc812980dc75480521b76aa5a23a53
+Q
+!src/components/artifacts/data.csv,c/a/ca7926bae72f4408131aae143d304b1752f37f45
